@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "阅读Android源代码——使用Studio查看源代码"
@@ -34,7 +33,7 @@ sudo dpkg-reconfigure dash
 
 １运行命令：
 
-$ mmm development/tools/idegen/ 
+$ mmm development/tools/idegen/
 生成IDE工具文件，这个命令运行时间大概７分钟,运行完将生成idegen.jar文件。成功后会有如下日志：
 
 [ 86% 26/30] //development/tools/idegen:idegen javac [linux_glibc common] 注: 某些输入文件使用或覆盖了已过时的 API。 注: 有关详细信息, 请使用 -Xlint:deprecation 重新编译。 [100% 30/30] Install: out/host/linux-x86/framework/idegen.jar
