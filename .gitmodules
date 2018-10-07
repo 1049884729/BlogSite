@@ -1,9 +1,10 @@
 [submodule "themes/next"]
 	path = themes/next
 	url = git@github.com:1049884729/hexo-theme-next.git
-[submodule "public"]
-	path = public
-	url = git@github.com:gobeike/gobeike.github.io.git
 [submodule "source"]
 	path = source
 	url = https://github.com/1049884729/BlogMdSet
+
+[submodule "public"]
+	path = public
+	url = git@github.com:gobeike/gobeike.github.io.git
